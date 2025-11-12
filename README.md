@@ -16,5 +16,5 @@ You can see the live deployed version of this frontend on Netlify:
 
 Project Links
 
-* Backend Code (Main Repo): []
+* Backend Code (Main Repo): [https://github.com/SHYN-code/ai-cattle-backend]
 * Backend API (Live): [https://keras-3.onrender.com/docs]
